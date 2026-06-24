@@ -4,7 +4,7 @@ $conn = mysqli_connect(
 "localhost",
 "root",
 "",
-"swiftride"
+"swiftride_db"
 );
 
 if(!$conn){
